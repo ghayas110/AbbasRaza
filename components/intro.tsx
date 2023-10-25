@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=368&h=368&q=100"
+              src="https://scontent.fkhi2-2.fna.fbcdn.net/v/t39.30808-6/279898212_867363934657020_8602886475197182333_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=H7vVwcb7gPcAX8b3hP9&_nc_ht=scontent.fkhi2-2.fna&oh=00_AfBYUT0Z8Wj9_Suh4FeBEeM7i1CFO3SMzZ2Oa4ra6w6v6Q&oe=653D3192"
               alt="Ricardo portrait"
               width="192"
               height="192"
@@ -62,11 +62,11 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Ricardo.</span> I'm a{" "}
-        <span className="font-bold">full-stack developer</span> with{" "}
-        <span className="font-bold">8 years</span> of experience. I enjoy
-        building <span className="italic">sites & apps</span>. My focus is{" "}
-        <span className="underline">React (Next.js)</span>.
+        <span className="font-bold">Hello, I'm Abbas.</span> I'm a{" "}
+        <span className="font-bold">Video Editor</span> with{" "}
+        <span className="font-bold">1 years</span> of experience. I enjoy
+        making <span className="italic">videos and animation</span>. My focus is{" "}
+        <span className="underline">Premier Pro ,After Effects </span>.
       </motion.h1>
 
       <motion.div

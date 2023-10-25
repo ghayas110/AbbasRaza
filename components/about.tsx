@@ -19,21 +19,9 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
-        </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+      As a CS student with a passion for video editing, I am Abbas Raza, an aspiring video editor seeking opportunities to apply my skills and creativity in the industry. Proficient in using professional editing software, I am dedicated to delivering high-quality visual content that engages and captivates audiences.
+
+During my studies in computer science, I have developed a solid foundation in technical knowledge and problem-solving skills, which I apply to enhance my video editing abilities. Through hands-on experience and personal projects, I have honed my expertise in video editing techniques, including cutting, color grading, motion graphics, and sound design.
       </p>
 
       <p>
